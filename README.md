@@ -2,6 +2,9 @@
 I'm a Master's student working on parasitic plants at Dr. Dan Sloan's lab. 
 Parasites are my facorite organisms, from obligate intracellular viruses to kleptoparasitic megafauna. 
 
+Useful Links
+[CM-515 Coding exercises(https://github.com/cderoux/CM515-course-2024)]
+
 <!--
 **cderoux/cderoux** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
