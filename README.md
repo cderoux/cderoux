@@ -6,7 +6,7 @@ Parasites are my facorite organisms, from obligate intracellular viruses to klep
 
 Useful Links
 
-[My email](cderoux@colostate.edu)
+My email: cderoux@colostate.edu
 
 [CM-515 Coding exercises](https://github.com/cderoux/CM515-course-2024)
 
