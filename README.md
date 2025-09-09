@@ -1,6 +1,6 @@
 ### Wha Gwan, I'm Chris deRoux
 
-![Crappy Self Portrait](Self Portrait.jpg)
+![Crappy Self Portrait](https://github.com/cderoux/cderoux.github.io/blob/main/Self%20Portrait.jpg)
 
 I'm a PhD student in Dr. Andrisu Dabilis' lab, studying phage bacterial coevolution. 
 
