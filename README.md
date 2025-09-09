@@ -8,9 +8,9 @@ Useful Links
 
 My email: chris.deroux@uconn.edu
 
-[CM-515 Coding exercises](https://github.com/cderoux/CM515-course-2024)
+[My CV](https://github.com/cderoux/cderoux/blob/main/Chris%20deRoux%20CV.docx)
 
-[My favorite module from CM-515 ](https://github.com/cderoux/CM515-course-2024/tree/3066831a34f29e1663361aeef4a6b3663b528ebf/modules/09_Deeptools)
+[CM-515 Coding exercises](https://github.com/cderoux/CM515-course-2024)
 
 [My coding resources](https://github.com/cderoux/my-resources)
 
