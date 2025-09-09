@@ -1,2 +1,6 @@
 name: Chris deRoux
 theme: minima
+
+#adding menus
+#header_pages:
+#- photos.md for example
